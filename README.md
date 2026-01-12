@@ -14,5 +14,5 @@ This project implements automatic inspection of wind power generation unmanned a
 - Refer to the C++code, which has been integrated into the Android platform and involves multiple algorithms. Can provide stable running. so files.
 
 # 特殊需求
-- 有特殊需需求，定制开发，私信。  
+- 只提供了部分代码，有特殊需需求，定制开发，私信。  
 - Special needs, customized development, private message.
